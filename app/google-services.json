@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544365476587",
+    "project_id": "profireb-f8b19",
+    "storage_bucket": "profireb-f8b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544365476587:android:b3131d14df826c32781cae",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544365476587-2jo3ie54vjucttmn4q1t3vp2chlloiqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQpN1_06rUvi8PCMUl6I0CoNG0rlETu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544365476587-2jo3ie54vjucttmn4q1t3vp2chlloiqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
